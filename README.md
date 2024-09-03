@@ -12,7 +12,7 @@ Youtube:  https://www.youtube.com/watch?v=i_LwzRVP7bg
 ### Logistic Regression
 ![Screenshot 2024-09-04 at 12 20 34 AM](https://github.com/user-attachments/assets/b0f30f91-f4f7-415b-b760-5ef910a6283f)
 
-### Support Vector Maching
+### Support Vector Machine
 ![Screenshot 2024-09-04 at 12 20 56 AM](https://github.com/user-attachments/assets/52887a3d-600d-42a8-96cf-f82b073efb0d)
 
 ### Neural Network
