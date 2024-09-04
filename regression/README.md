@@ -1,9 +1,6 @@
 ## Machine Learning for Everybody – Full Course
 Youtube:  https://www.youtube.com/watch?v=i_LwzRVP7bg
 
-## Dataset
-Seoul Bike Sharing Demand. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
-
 ## Linear Regression
 ![Screenshot 2024-09-04 at 4 28 37 PM](https://github.com/user-attachments/assets/6d2fd31a-0284-4bf6-b043-1d3e46e80e07)
 
@@ -16,6 +13,10 @@ Seoul Bike Sharing Demand. (2020). UCI Machine Learning Repository. https://doi.
 
 ## True vs Prediction
 ![Screenshot 2024-09-04 at 4 31 31 PM](https://github.com/user-attachments/assets/1dbd81aa-a3e0-4912-bc64-dd6426be4335)
+
+## Dataset
+Seoul Bike Sharing Demand. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5F62R.
+
 
 
 
